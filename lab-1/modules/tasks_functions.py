@@ -1,5 +1,5 @@
-from .myskfuzzy import *
-from .graphbuilder import *
+from myskfuzzy import *
+from modules.graphbuilder import *
 
 
 def task1():
@@ -76,7 +76,7 @@ def task3():
 def task4():
     x = np.linspace(-10, 15, 100)
 
-    one_side = sigmf(x, 0, 5)
+    one_side = sigmf(x, 0, -5)
     two_side = dsigmf(x, 2, 3, 5, 7)
     add_asym = psigmf(x, 4, 5, 8, 4)
 

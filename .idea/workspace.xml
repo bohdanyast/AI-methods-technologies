@@ -5,18 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2d08c8b-e0ab-414f-81fe-241a3a04cc83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/task-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/task-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/task-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-1/мтші-лаб-1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/gauss_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/images/img_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/trapezoidal_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-2/triangular_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/images/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/images/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/images/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/~$ші-лаб-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-3/мтші-лаб-3.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/modules/tasks_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/modules/tasks_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/мтші-лаб-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/мтші-лаб-1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab-1/мтші-лаб-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/мтші-лаб-1.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +70,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/кпи/3 курс/5 семестр/мтші лаби/lab-1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/Desktop/кпи/3 курс/5 семестр/мтші лаби/lab-2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -64,10 +81,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби\lab-2" />
       <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби\lab-1" />
       <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби\lab-1\modules" />
+      <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби" />
       <recent name="C:\Users\user\Desktop\кпи\3 курс\5 семестр\мтші лаби\lab-1" />
     </key>
   </component>
@@ -82,6 +102,34 @@
       <workItem from="1756900163908" duration="5059000" />
       <workItem from="1756907210673" duration="16239000" />
       <workItem from="1756931124328" duration="399000" />
+      <workItem from="1756967342558" duration="29523000" />
+      <workItem from="1757094755292" duration="931000" />
+      <workItem from="1757096466211" duration="14000" />
+      <workItem from="1757097299955" duration="13000" />
+      <workItem from="1757482243474" duration="1580000" />
+      <workItem from="1757864415127" duration="18000" />
+      <workItem from="1758138536446" duration="274000" />
+      <workItem from="1758187405882" duration="10000" />
+      <workItem from="1758311845877" duration="913000" />
+      <workItem from="1758389758662" duration="2340000" />
+      <workItem from="1758692016173" duration="34000" />
+      <workItem from="1758693051046" duration="333000" />
+      <workItem from="1758968225592" duration="34000" />
+      <workItem from="1759329652281" duration="1486000" />
+      <workItem from="1759337182681" duration="669000" />
+      <workItem from="1759497698280" duration="9308000" />
+      <workItem from="1759589404546" duration="11000" />
+      <workItem from="1759591914455" duration="615000" />
+      <workItem from="1759652588530" duration="372000" />
+      <workItem from="1759660023177" duration="2386000" />
+      <workItem from="1759663497793" duration="9599000" />
+      <workItem from="1759674543257" duration="5840000" />
+      <workItem from="1759682581266" duration="3035000" />
+      <workItem from="1760327132216" duration="397000" />
+      <workItem from="1760363603671" duration="263000" />
+      <workItem from="1760367217713" duration="7856000" />
+      <workItem from="1760390342960" duration="1165000" />
+      <workItem from="1760427393336" duration="9549000" />
     </task>
     <servers />
   </component>
@@ -93,9 +141,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_$task_1.coverage" NAME="task-1 Coverage Results" MODIFIED="1756923226077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
-    <SUITE FILE_PATH="coverage/_$task_4.coverage" NAME="task-4 Coverage Results" MODIFIED="1756929152139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
-    <SUITE FILE_PATH="coverage/_$main.coverage" NAME="main Coverage Results" MODIFIED="1756908760620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/_$task_4.coverage" NAME="task-4 Coverage Results" MODIFIED="1756971947063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/_$trapezoidal_model.coverage" NAME="trapezoidal_model Coverage Results" MODIFIED="1759684043322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
+    <SUITE FILE_PATH="coverage/_$main.coverage" NAME="main Coverage Results" MODIFIED="1760437563766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-3" />
+    <SUITE FILE_PATH="coverage/_$graphbuilder.coverage" NAME="graphbuilder Coverage Results" MODIFIED="1756988460720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/modules" />
+    <SUITE FILE_PATH="coverage/_$triangular_model.coverage" NAME="triangular_model Coverage Results" MODIFIED="1759683546088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
     <SUITE FILE_PATH="coverage/_$task_2.coverage" NAME="task-2 Coverage Results" MODIFIED="1756923546596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
     <SUITE FILE_PATH="coverage/_$task_3.coverage" NAME="task-3 Coverage Results" MODIFIED="1756924136914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/_$tasks_functions.coverage" NAME="tasks_functions Coverage Results" MODIFIED="1756996955982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/modules" />
+    <SUITE FILE_PATH="coverage/_$myskfuzzy.coverage" NAME="myskfuzzy Coverage Results" MODIFIED="1756971939130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/_$triangular_model_test.coverage" NAME="triangular_model_test Coverage Results" MODIFIED="1759674174846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
+    <SUITE FILE_PATH="coverage/_$gauss_model.coverage" NAME="gauss_model Coverage Results" MODIFIED="1759684707403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
+    <SUITE FILE_PATH="coverage/_$task_5.coverage" NAME="task-5 Coverage Results" MODIFIED="1756973229888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/_$main2.coverage" NAME="main2 Coverage Results" MODIFIED="1760434095252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-3" />
   </component>
 </project>
