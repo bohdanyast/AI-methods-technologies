@@ -5,35 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2d08c8b-e0ab-414f-81fe-241a3a04cc83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab-2/gauss_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/images/img_9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/trapezoidal_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-2/triangular_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/images/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/~$ші-лаб-3.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-3/мтші-лаб-3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-4/main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-4/мтші-лаб-4.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-1/modules/tasks_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/modules/tasks_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-1/мтші-лаб-1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/мтші-лаб-1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab-1/мтші-лаб-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/lab-1/мтші-лаб-1.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -75,7 +50,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -130,6 +105,24 @@
       <workItem from="1760367217713" duration="7856000" />
       <workItem from="1760390342960" duration="1165000" />
       <workItem from="1760427393336" duration="9549000" />
+      <workItem from="1760802594452" duration="1043000" />
+      <workItem from="1760807266383" duration="1699000" />
+      <workItem from="1760810653082" duration="987000" />
+      <workItem from="1760814115480" duration="694000" />
+      <workItem from="1760849995054" duration="53000" />
+      <workItem from="1760850397111" duration="1252000" />
+      <workItem from="1760875677589" duration="1298000" />
+      <workItem from="1760886225753" duration="808000" />
+      <workItem from="1760895194479" duration="988000" />
+      <workItem from="1760971129835" duration="873000" />
+      <workItem from="1761925924141" duration="13000" />
+      <workItem from="1762008036273" duration="114000" />
+      <workItem from="1762013240266" duration="3982000" />
+      <workItem from="1762017981811" duration="561000" />
+      <workItem from="1762088497406" duration="460000" />
+      <workItem from="1762089144997" duration="5553000" />
+      <workItem from="1762101240425" duration="160000" />
+      <workItem from="1762115593751" duration="144000" />
     </task>
     <servers />
   </component>
@@ -142,8 +135,9 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/_$task_1.coverage" NAME="task-1 Coverage Results" MODIFIED="1756923226077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
     <SUITE FILE_PATH="coverage/_$task_4.coverage" NAME="task-4 Coverage Results" MODIFIED="1756971947063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
+    <SUITE FILE_PATH="coverage/_$tests.coverage" NAME="tests Coverage Results" MODIFIED="1760971359695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/_$trapezoidal_model.coverage" NAME="trapezoidal_model Coverage Results" MODIFIED="1759684043322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
-    <SUITE FILE_PATH="coverage/_$main.coverage" NAME="main Coverage Results" MODIFIED="1760437563766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-3" />
+    <SUITE FILE_PATH="coverage/_$main.coverage" NAME="main Coverage Results" MODIFIED="1762094387344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-4" />
     <SUITE FILE_PATH="coverage/_$graphbuilder.coverage" NAME="graphbuilder Coverage Results" MODIFIED="1756988460720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1/modules" />
     <SUITE FILE_PATH="coverage/_$triangular_model.coverage" NAME="triangular_model Coverage Results" MODIFIED="1759683546088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-2" />
     <SUITE FILE_PATH="coverage/_$task_2.coverage" NAME="task-2 Coverage Results" MODIFIED="1756923546596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab-1" />
